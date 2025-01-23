@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.12.0.0">
-    <PropertyGroup device="X-T5" version="X-T5_0200" label="temp">
+    <PropertyGroup device="X-T5" version="X-T5_0200" label="remp">
         <SerialNumber>593536383832221023F1D320310DFE</SerialNumber>
         <TetherRAWConditonCode>X-T5_0200</TetherRAWConditonCode>
         <Editable>TRUE</Editable>
@@ -16,26 +16,26 @@
         <ExposureBias>0</ExposureBias>
         <DynamicRange>100</DynamicRange>
         <WideDRange>0</WideDRange>
-        <FilmSimulation>Acros</FilmSimulation>
+        <FilmSimulation>ClassicNEGA</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
         <MonochromaticColor_RG>0</MonochromaticColor_RG>
         <GrainEffect>OFF</GrainEffect>
-        <GrainEffectSize>SMALL</GrainEffectSize>
+        <GrainEffectSize>LARGE</GrainEffectSize>
         <ChromeEffect>STRONG</ChromeEffect>
-        <ColorChromeBlue>STRONG</ColorChromeBlue>
-        <SmoothSkinEffect>WEAK</SmoothSkinEffect>
-        <WBShootCond>ON</WBShootCond>
-        <WhiteBalance>INVALID</WhiteBalance>
-        <WBShiftR>3</WBShiftR>
-        <WBShiftB>-6</WBShiftB>
-        <WBColorTemp>0K</WBColorTemp>
-        <HighlightTone>0</HighlightTone>
-        <ShadowTone>0</ShadowTone>
-        <Color>0</Color>
-        <Sharpness>-1</Sharpness>
+        <ColorChromeBlue>OFF</ColorChromeBlue>
+        <SmoothSkinEffect>OFF</SmoothSkinEffect>
+        <WBShootCond>OFF</WBShootCond>
+        <WhiteBalance>Daylight</WhiteBalance>
+        <WBShiftR>0</WBShiftR>
+        <WBShiftB>-1</WBShiftB>
+        <WBColorTemp>4350K</WBColorTemp>
+        <HighlightTone>-1</HighlightTone>
+        <ShadowTone>-2</ShadowTone>
+        <Color>1</Color>
+        <Sharpness>-2</Sharpness>
         <NoisReduction>-4</NoisReduction>
         <Clarity>0</Clarity>
-        <LensModulationOpt>OFF</LensModulationOpt>
+        <LensModulationOpt>ON</LensModulationOpt>
         <ColorSpace>AdobeRGB</ColorSpace>
         <HDR/>
         <DigitalTeleConv>OFF</DigitalTeleConv>
