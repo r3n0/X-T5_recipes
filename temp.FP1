@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.12.0.0">
-    <PropertyGroup device="X-T5" version="X-T5_0100" label="Mike&apos;s Chrome">
+    <PropertyGroup device="X-T5" version="X-T5_0200" label="temp">
         <SerialNumber>593536383832221023F1D320310DFE</SerialNumber>
-        <TetherRAWConditonCode>X-T5_0100</TetherRAWConditonCode>
+        <TetherRAWConditonCode>X-T5_0200</TetherRAWConditonCode>
         <Editable>TRUE</Editable>
         <SourceFileName/>
         <Fileerror>NONE</Fileerror>
@@ -12,32 +12,33 @@
         <ShootingCondition>OFF</ShootingCondition>
         <FileType>JPG</FileType>
         <ImageSize>L3x2</ImageSize>
-        <ImageQuality>Normal</ImageQuality>
-        <ExposureBias>P0P33</ExposureBias>
+        <ImageQuality>Fine</ImageQuality>
+        <ExposureBias>0</ExposureBias>
         <DynamicRange>100</DynamicRange>
         <WideDRange>0</WideDRange>
-        <FilmSimulation>NostalgicNEGA</FilmSimulation>
+        <FilmSimulation>Acros</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
         <MonochromaticColor_RG>0</MonochromaticColor_RG>
         <GrainEffect>OFF</GrainEffect>
-        <GrainEffectSize>LARGE</GrainEffectSize>
+        <GrainEffectSize>SMALL</GrainEffectSize>
         <ChromeEffect>STRONG</ChromeEffect>
         <ColorChromeBlue>STRONG</ColorChromeBlue>
-        <SmoothSkinEffect>OFF</SmoothSkinEffect>
-        <WBShootCond>OFF</WBShootCond>
-        <WhiteBalance>Auto</WhiteBalance>
-        <WBShiftR>2</WBShiftR>
-        <WBShiftB>-3</WBShiftB>
-        <WBColorTemp>4350K</WBColorTemp>
+        <SmoothSkinEffect>WEAK</SmoothSkinEffect>
+        <WBShootCond>ON</WBShootCond>
+        <WhiteBalance>INVALID</WhiteBalance>
+        <WBShiftR>3</WBShiftR>
+        <WBShiftB>-6</WBShiftB>
+        <WBColorTemp>0K</WBColorTemp>
         <HighlightTone>0</HighlightTone>
-        <ShadowTone>-2</ShadowTone>
-        <Color>2</Color>
-        <Sharpness>-4</Sharpness>
+        <ShadowTone>0</ShadowTone>
+        <Color>0</Color>
+        <Sharpness>-1</Sharpness>
         <NoisReduction>-4</NoisReduction>
         <Clarity>0</Clarity>
-        <LensModulationOpt>ON</LensModulationOpt>
+        <LensModulationOpt>OFF</LensModulationOpt>
         <ColorSpace>AdobeRGB</ColorSpace>
         <HDR/>
         <DigitalTeleConv>OFF</DigitalTeleConv>
+        <PortraitEnhancer/>
     </PropertyGroup>
 </ConversionProfile>

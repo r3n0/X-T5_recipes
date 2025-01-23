@@ -14,7 +14,7 @@
         <ImageSize>L3x2</ImageSize>
         <ImageQuality>Fine</ImageQuality>
         <ExposureBias>0</ExposureBias>
-        <DynamicRange>400</DynamicRange>
+        <DynamicRange>100</DynamicRange>
         <WideDRange>0</WideDRange>
         <FilmSimulation>Classic</FilmSimulation>
         <BlackImageTone>0</BlackImageTone>
