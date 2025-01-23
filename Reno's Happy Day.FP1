@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ConversionProfile application="XRFC" version="1.12.0.0">
-    <PropertyGroup device="X-T5" version="X-T5_0100" label="Reno&apos;s Happy Day">
+    <PropertyGroup device="X-T5" version="X-T5_0200" label="Reno&apos;s Happy Day">
         <SerialNumber>593536383832221023F1D320310DFE</SerialNumber>
-        <TetherRAWConditonCode>X-T5_0100</TetherRAWConditonCode>
+        <TetherRAWConditonCode>X-T5_0200</TetherRAWConditonCode>
         <Editable>TRUE</Editable>
         <SourceFileName/>
         <Fileerror>NONE</Fileerror>
