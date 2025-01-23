@@ -10,7 +10,7 @@
         <StructVer>65536</StructVer>
         <IOPCode>FA179502</IOPCode>
         <ShootingCondition>OFF</ShootingCondition>
-        <FileType>JPG</FileType>
+        <FileType>TIF_16BIT</FileType>
         <ImageSize>L3x2</ImageSize>
         <ImageQuality>Fine</ImageQuality>
         <ExposureBias>P0P67</ExposureBias>
