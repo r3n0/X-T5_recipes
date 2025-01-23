@@ -35,7 +35,7 @@
         <Sharpness>-4</Sharpness>
         <NoisReduction>-2</NoisReduction>
         <Clarity>2</Clarity>
-        <LensModulationOpt>OFF</LensModulationOpt>
+        <LensModulationOpt>ON</LensModulationOpt>
         <ColorSpace>AdobeRGB</ColorSpace>
         <HDR/>
         <DigitalTeleConv>OFF</DigitalTeleConv>
