@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConversionProfile application="XRFC" version="1.12.0.0">
+    <PropertyGroup device="X-T5" version="X-T5_0100" label="Desde el parqueadero">
+        <SerialNumber>593536383832221023F1D320310DFE</SerialNumber>
+        <TetherRAWConditonCode>X-T5_0100</TetherRAWConditonCode>
+        <Editable>TRUE</Editable>
+        <SourceFileName/>
+        <Fileerror>NONE</Fileerror>
+        <RotationAngle>0</RotationAngle>
+        <StructVer>65536</StructVer>
+        <IOPCode>FA179502</IOPCode>
+        <ShootingCondition>OFF</ShootingCondition>
+        <FileType>TIF_16BIT</FileType>
+        <ImageSize>L3x2</ImageSize>
+        <ImageQuality>Fine</ImageQuality>
+        <ExposureBias>P0P67</ExposureBias>
+        <DynamicRange>100</DynamicRange>
+        <WideDRange>0</WideDRange>
+        <FilmSimulation>Classic</FilmSimulation>
+        <BlackImageTone>0</BlackImageTone>
+        <MonochromaticColor_RG>0</MonochromaticColor_RG>
+        <GrainEffect>OFF</GrainEffect>
+        <GrainEffectSize>LARGE</GrainEffectSize>
+        <ChromeEffect>STRONG</ChromeEffect>
+        <ColorChromeBlue>STRONG</ColorChromeBlue>
+        <SmoothSkinEffect>OFF</SmoothSkinEffect>
+        <WBShootCond>OFF</WBShootCond>
+        <WhiteBalance>Auto_White</WhiteBalance>
+        <WBShiftR>2</WBShiftR>
+        <WBShiftB>-3</WBShiftB>
+        <WBColorTemp>5300K</WBColorTemp>
+        <HighlightTone>2</HighlightTone>
+        <ShadowTone>0</ShadowTone>
+        <Color>2</Color>
+        <Sharpness>-4</Sharpness>
+        <NoisReduction>-4</NoisReduction>
+        <Clarity>0</Clarity>
+        <LensModulationOpt>ON</LensModulationOpt>
+        <ColorSpace>AdobeRGB</ColorSpace>
+        <HDR/>
+        <DigitalTeleConv>OFF</DigitalTeleConv>
+    </PropertyGroup>
+</ConversionProfile>
