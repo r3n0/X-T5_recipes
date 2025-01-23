@@ -24,8 +24,8 @@
         <ChromeEffect>STRONG</ChromeEffect>
         <ColorChromeBlue>WEAK</ColorChromeBlue>
         <SmoothSkinEffect>OFF</SmoothSkinEffect>
-        <WBShootCond>OFF</WBShootCond>
-        <WhiteBalance>Daylight</WhiteBalance>
+        <WBShootCond>ON</WBShootCond>
+        <WhiteBalance>INVALID</WhiteBalance>
         <WBShiftR>0</WBShiftR>
         <WBShiftB>0</WBShiftB>
         <WBColorTemp>4350K</WBColorTemp>
@@ -35,7 +35,7 @@
         <Sharpness>-2</Sharpness>
         <NoisReduction>-3</NoisReduction>
         <Clarity>0</Clarity>
-        <LensModulationOpt>ON</LensModulationOpt>
+        <LensModulationOpt>OFF</LensModulationOpt>
         <ColorSpace>AdobeRGB</ColorSpace>
         <HDR/>
         <DigitalTeleConv>OFF</DigitalTeleConv>
